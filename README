@@ -1,0 +1,36 @@
+# SeguroFlow API
+
+Sistema interno para gerenciamento de solicitações de seguros, desenvolvido com foco em APIs REST, automações e arquitetura backend.
+
+## Tecnologias utilizadas
+
+- PHP
+- Node.js
+- MySQL
+- JavaScript
+- HTML/CSS
+- Git/GitHub
+
+## Objetivo
+
+Projeto desenvolvido para estudo prático de:
+- APIs REST
+- Backend com PHP
+- Integração entre serviços
+- Banco de dados relacionais
+- Estruturação de sistemas corporativos
+- Microsserviços e automações
+
+## Estrutura do projeto
+
+```txt
+backend-php/     # API principal
+automation-node/ # automações e logs
+frontend-demo/   # interface de demonstração
+database/        # banco de dados
+docs/            # documentação técnica
+```
+
+## Status
+
+🚧 Projeto em desenvolvimento
